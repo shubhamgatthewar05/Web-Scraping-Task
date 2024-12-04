@@ -1,0 +1,10 @@
+Here i have used the more functionality and features:
+
+
+content.html: Cleaned and formatted HTML.
+content.md: Highly readable Markdown format.
+content.txt: Plain text representation.
+result.json: Complete crawl data including metadata, screenshot, and content.
+screenshot.png: A screenshot of the webpage.
+
+
